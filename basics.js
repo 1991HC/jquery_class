@@ -33,7 +33,7 @@ $(document).ready(function()
 
 	$("#right").addClass("rightcontent");
 
-	$("#left").removeClass("leftcontent");
+	$("#right").removeClass("leftcontent");
 
 
 
